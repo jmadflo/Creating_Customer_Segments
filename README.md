@@ -3,7 +3,7 @@ This is my third Udacity Machine Learning Engineer nanodegree project.
 
 - To view my work, open the creating_customer_segments.ipynb file. The rest are supporting files or less readable formats of the same work.
 
-- As the name suggests, this project is centered on the creation of a machine learning model capable of being used by a wholesale distributor to determine the different types of customers that it has, so that it may offer a new customer the type service that has been most useful for similar customers.
+- As the name suggests, this Unsupervised Learning project is centered on the creation of a machine learning model capable of being used by a wholesale distributor to determine the different types of customers that it has, so that it may offer a new customer the type service that has been most useful for similar customers.
 
 - This Jupyter Notebook project is comprised of Python code blocks with my contributions including the word 'Implementation' in the section header, and with the 'TODO' keyword in the comments preceding my code contribution. 
 
